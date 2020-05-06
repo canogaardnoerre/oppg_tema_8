@@ -1,0 +1,22 @@
+html {
+    margin: o;
+    padding: 0;
+}
+
+ul {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: auto;
+    place-content: center;
+    text-align: center;
+    list-style-type: none;
+}
+
+li {
+    padding: 1rem;
+    font-size: 2rem;
+    color: tomato;
+}
+
+
+
